@@ -1,24 +1,10 @@
-# README
+Parking spot finder App
+Make the backend wit ruby on rails for Authenication, using JWT and deploy my backend with heroku. 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Technologies
+Ruby on Rails
+Heroku
 
-Things you may want to cover:
+Authors
+Parada (Alice) Richardson - Github Repo
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
